@@ -6,6 +6,10 @@
 
 This API has been developed to support a social media startup that uses a NoSQL database to store large amounts of unstructured data. The API allows users to interact with the social network by creating, updating, and deleting user accounts, thoughts, and reactions.
 
+## Link
+Link to walkthrough video that demonstrates the functionality of the Social Media Startup API.
+> https://intense-island-90811.herokuapp.com/
+
 ## Getting Started
 
 Be sure to have MongoDB installed on your machine. Follow the [MongoDB installation guide on The Full-Stack Blog](https://coding-boot-camp.github.io/full-stack/mongodb/how-to-install-mongodb) to install MongoDB locally.
