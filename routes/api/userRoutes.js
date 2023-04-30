@@ -3,6 +3,7 @@ const router = require('express').Router();
 // From the user controller, import the five methods we just created.
 const {
     getUsers,
+  
     getSingleUser,
     createUser,
     updateUser,
