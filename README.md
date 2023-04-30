@@ -8,7 +8,7 @@ This API has been developed to support a social media startup that uses a NoSQL 
 
 ## Link
 Link to walkthrough video that demonstrates the functionality of the Social Media Startup API.
-> https://intense-island-90811.herokuapp.com/
+> https://drive.google.com/file/d/1wnTVBMVeo8wzkV0_NOk7cU0YcUdcui_x/view
 
 ## Getting Started
 
